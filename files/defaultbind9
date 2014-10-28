@@ -1,0 +1,6 @@
+# Generated with Puppet using /var/lib/puppet/modules/named/files/defaultbind9
+
+OPTIONS="-u bind -t /var/lib/named"
+# Set RESOLVCONF=no to not run resolvconf
+RESOLVCONF=yes
+
